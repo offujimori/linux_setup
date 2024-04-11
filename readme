@@ -1,0 +1,35 @@
+VirtualBox Installation
+https://www.virtualbox.org/
+https://www.youtube.com/watch?v=F_RsnnPk3Tk
+
+Ubuntu Installation
+https://www.ubuntu.com/download/desktop
+https://www.youtube.com/watch?v=rJ9ysibH768&t=304s
+
+Install Ubuntu Guest Additions
+Devices > Insert Guest Additions CD Image > Autorun.sh > "Run As a Program"
+
+Create vboxsf group within  the guest VM. (Grant Permissions)
+https://stackoverflow.com/questions/26740113/virtualbox-shared-folder-permissions
+
+Install VSCode
+https://code.visualstudio.com/docs/?dv=linux64cli
+https://code.visualstudio.com/docs/setup/linux
+
+Install Git
+https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+Install VSCode Extension Github
+
+Install Rust
+https://www.rust-lang.org/tools/install
+
+Install VSCode Extension RUST ANALYZER
+
+Install wasm32-unknown-unknown
+https://academy.cosmwasm.com/learn/smart-contracts/installing-the-toolset
+
+Install cosmwasm-check
+https://academy.cosmwasm.com/learn/smart-contracts/installing-the-toolset
+
+
